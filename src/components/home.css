@@ -1,0 +1,12 @@
+.jumbotron-fluid {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.bg {
+  background-image: url("https://cdn.eventfinda.co.nz/uploads/events/transformed/1199942-535940-34.jpg");
+  background-size: cover;
+  height: 100%;
+  position: absolute;
+}
